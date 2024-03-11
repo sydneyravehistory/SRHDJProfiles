@@ -1,10 +1,12 @@
 {
     "real_name": "",
+    "discogs": "",
+    "wikipedia": "",
     "profile_pic": "",
     "srh_raves": "search?query=DJName",
     "srh_mixtapes": "mixtapes#DJInitial",
-    "srh_interview": "",
-    "srh_flyers": "",
+    "srh_interview": "Leave for SRH",
+    "srh_flyers": "Leave for SRH",
     "profile": {
       "description": "",
       "sites": [
