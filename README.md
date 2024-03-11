@@ -1,6 +1,6 @@
 # Introduction
 
-For the sydneyravehistory.com website, the idea has been floated to have a list of DJs with profiles, pictures, personal web links, mixtapes, raves & flyers.
+For the sydneyravehistory.com website the idea has been floated to have a list of DJs with profiles, pictures, personal web links, mixtapes, raves & flyers.
 
 In order to complete this task, we are asking the community to help out by filling in DJ profiles.
 
@@ -28,6 +28,7 @@ In this repository is the DJTemplate:
         ""
     ]
 }
+
 
 
 Make copies of this file for each DJ and use DJ SPellbound.json as an example.
