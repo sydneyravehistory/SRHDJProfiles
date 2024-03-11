@@ -27,7 +27,9 @@ In this repository is the DJTemplate:
       "",  
       ""  
     ]  
-}```
+}
+
+<hr>
 
 Make copies of this file for each DJ and use DJ SPellbound.json as an example.
 
