@@ -36,6 +36,6 @@ In this repository is the DJTemplate:
 
 # Instructions
 
-Make copies of this file for each DJ and use DJ Spellbound.json as an example.
+Make copies of this file for each DJ and use DJ Dynamix.json or Spellbound.json as an examples.
 
 Thanks SRH Admin!
