@@ -1,10 +1,10 @@
 # DJ Profiles
 
-This is a project to collect profiles of DJs between 1989 and 1998.
+This is a project to collect profiles of Sydney Rave DJs between 1989 and 1998.
 
 # Introduction
 
-An idea has been floated for the sydneyravehistory.com website to have a list of DJs with profiles, pictures, personal web links, mixtapes, raves, flyers & etc.
+An idea has been floated for the https://sydneyravehistory.com website to have a list of DJs with profiles, pictures, web links, mixtapes, raves, flyers & etc.
 
 In order to complete this task we are asking the community to help out by filling in DJ profiles.
 
@@ -32,9 +32,10 @@ In this repository is the DJTemplate:
         ""
     ]
 }
+```
 
 # Instructions
 
-Make copies of this file for each DJ and use DJ SPellbound.json as an example.
+Make copies of this file for each DJ and use DJ Spellbound.json as an example.
 
 Thanks SRH Admin!
